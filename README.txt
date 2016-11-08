@@ -1,3 +1,4 @@
+Sharing remotely is fun and easy --- updated
 Hello, Git
 Updating README with new information
 Committing from an alternate location
